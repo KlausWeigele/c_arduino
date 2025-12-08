@@ -1,0 +1,26 @@
+# Compiled files
+*.o
+*.out
+*.exe
+*.bin
+
+# Executables (without extension)
+exercises/basics/01_hello
+exercises/basics/02_*
+exercises/control/*
+exercises/functions/*
+exercises/pointers/*
+exercises/structs/*
+
+# Arduino build files
+build/
+.arduino/
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
